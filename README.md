@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Speech Emotion Recognition <br>
 - 🌱 I’m currently learning ML, DL  <!--- 👯 I’m looking to collaborate on ...  - 🤔 I’m looking for help with   - 💬 Ask me about ...--> <br>
-- 📫 How to reach me: My Linkedin Profile - https://www.linkedin.com/in/shreyasi-mandal-929778210/ <br>
+- 📫 How to reach me: My Linkedin Profile - [Shreyasi](https://www.linkedin.com/in/shreyasi-mandal-929778210/) <br>
 - 😄 Pronouns: she/her <br>
 <!--- ⚡ Fun fact: ...-->
 
