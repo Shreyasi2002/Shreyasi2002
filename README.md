@@ -17,7 +17,7 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" alt="Follow Shreyasi on LinkedIn" title="Follow Shreyasi on LinkedIn"/>](www.linkedin.com/in/shreyasi-mandal-929778210)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" alt="Follow Shreyasi on LinkedIn" title="Follow Shreyasi on LinkedIn"/>](https://www.linkedin.com/in/shreyasi-mandal-929778210)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40em" alt="Follow Shreyasi on Instagram" title="Follow Shreyasi on Instagram"/>](https://instagram.com/shreyasi__2002)
 
 <!-- [<img src="[https://img.icons8.com/color/48/000000/twitter.png]" height="40em" align="center" alt="Follow Shreyasi on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111) -->
