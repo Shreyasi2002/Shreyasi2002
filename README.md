@@ -4,7 +4,7 @@
 
 ### About Me 🚀
 🌱 I’m a Final year undergraduate student at IIT Kanpur in the Department of Computer Science and Engineering. </br>
-👨‍💻  I am passionate about Deeppuuu, my boyfriend. </br>
+<!-- 👨‍💻  I am passionate about Deeppuuu, my boyfriend. </br> -->
 
 <br/>
 <div align="center" >
@@ -17,13 +17,13 @@
 
 ![](https://komarev.com/ghpvc/?username=Shreyasi2002)
 
-</div>
+<!-- </div>
 
 ```
 - 👀 I’m interested in Machine Learning and AI but  I am specially in love with my Deeppuuuu.
 - 🏫 I'm currently learning how to make my boyfriend happy.
 - 💞️ I’m looking to collaborate with anyone who want to share their thoughts on how much my boyfriend loves me.
-```
+``` -->
 
 
 
@@ -37,5 +37,5 @@
 
 </div>
 <h5>
-PS: If above links doesn't work, you can always find me in my Deepuu's heart <3
+<!-- PS: If above links doesn't work, you can always find me in my Deepuu's heart <3 -->
 </h5>
