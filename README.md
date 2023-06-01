@@ -1,23 +1,41 @@
-### 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 👋
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Shreyasi2002&color=00cf00)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shreyasi Mandal
 <br />
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝔸𝕣𝕥𝕚𝕗𝕚𝕔𝕚𝕒𝕝 𝕀𝕟𝕥𝕖𝕝𝕝𝕚𝕘𝕖𝕟𝕔𝕖 𝔼𝕟𝕥𝕙𝕦𝕤𝕚𝕒𝕤𝕥 
-- 🎓 𝕊𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝔹.𝕥𝕖𝕔𝕙 𝕚𝕟 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕊𝕔𝕚𝕖𝕟𝕔𝕖 𝕒𝕟𝕕 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕒𝕥 𝕀𝕟𝕕𝕚𝕒𝕟 𝕀𝕟𝕤𝕥𝕚𝕥𝕦𝕥𝕖 𝕠𝕗 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪, 𝕂𝕒𝕟𝕡𝕦𝕣 - ℂ𝕝𝕒𝕤𝕤 𝕠𝕗 𝟚𝟘𝟚𝟜
 
-![Metrics](https://metrics.lecoq.io/Shreyasi2002?template=classic&base.header=0&gists=1&lines=1)
+### About Me 🚀
+🌱 I’m a Final year undergraduate student at IIT Kanpur in the Department of Computer Science and Engineering. </br>
+👨‍💻  I am passionate about Deeppuuu, my boyfriend. </br>
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚊𝚗 𝚒𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙 𝚊𝚝 𝕀𝔹𝕄 ℝ𝕖𝕤𝕖𝕒𝕣𝕔𝕙 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍 𝚘𝚏 ℕ𝕒𝕥𝕦𝕣𝕒𝕝 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖 ℙ𝕣𝕠𝕔𝕖𝕤𝕤𝕚𝕟𝕘!
-- 🎯 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ℍ𝕦𝕞𝕒𝕟 ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕀𝕟𝕥𝕖𝕣𝕒𝕔𝕥𝕚𝕠𝕟, ℂ𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕍𝕚𝕤𝕚𝕠𝕟 ...
+<br/>
+<div align="center" >
+  <a href="https://github.com/Giingu"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=Shreyasi2002&theme=radical&title_color=ff3068?"></a>
+  <br/>
+  <br/>
+  <a href="https://github.com/Giingu"><img width="80%" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyasi2002&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shreyasi2002&theme=oldie&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Shreyasi2002&theme=oldie&no-frame=true&row=1&&margin-w=20&no-bg=true)
+<br/>
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+![](https://komarev.com/ghpvc/?username=Shreyasi2002)
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" alt="Follow Shreyasi on LinkedIn" title="Follow Shreyasi on LinkedIn"/>](https://www.linkedin.com/in/shreyasi-mandal-929778210)
+</div>
+
+```
+- 👀 I’m interested in Machine Learning and AI but  I am specially in love with my Deeppuuuu.
+- 🏫 I'm currently learning how to make my boyfriend happy.
+- 💞️ I’m looking to collaborate with anyone who want to share their thoughts on how much my boyfriend loves me.
+```
+
+
+
+<h2> You can find me on
+
+<div align="center">
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin" height="40em" alt="Follow Shreyasi on LinkedIn" title="Follow Shreyasi on LinkedIn" />](https://www.linkedin.com/in/shreyasi-mandal-929778210)
+[<img src="https://img.icons8.com/color/48/000000/portfolio" height="40em" alt="Visit Shreyasi's Portfolio" title="Visit Shreyasi's Portfolio"/>](https://home.iitk.ac.in/~shreyansi20/)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40em" alt="Follow Shreyasi on Instagram" title="Follow Shreyasi on Instagram"/>](https://instagram.com/shreyasi__2002)
 
-<!-- [<img src="[https://img.icons8.com/color/48/000000/twitter.png]" height="40em" align="center" alt="Follow Shreyasi on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/Raym0111) -->
+</div>
+<h5>
+PS: If above links doesn't work, you can always find me in my Deepuu's heart <3
+</h5>
