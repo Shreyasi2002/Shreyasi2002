@@ -3,20 +3,21 @@
 
 
 ### About Me 🚀
-🌱 I’m a Final year undergraduate student at IIT Kanpur in the Department of Computer Science and Engineering. </br>
-<!-- 👨‍💻  I am passionate about Deeppuuu, my boyfriend. </br> -->
+🌱 I am Shreyasi Mandal, a final-year student in the Computer Science and Engineering Department at IIT Kanpur. My academic journey has been driven by a strong passion for AI and ML research, where I've consistently sought innovative applications of Artificial Intelligence.
+
+During my time at IBM Research, I actively contributed to integrating textual knowledge for Question Answering using Knowledge Graphs. Additionally, I have also contributed to the development of a Knowledge Graph tailored for legal data, enriching my expertise in NLP. Additionally, I have hands-on experience in web development, utilizing ReactJS to build web applications.
+
+I have worked under Prof. Elodie Lugez, at Toronto Metropolitan University (TMU) in the summers of 2023 as a MITACS intern, where I had created a novel Attention-based AutoEncoder model to improve catheter detection in high-dose-rate prostate brachytherapy, which will help in improving cancer treatment. I have also published a paper at SPIE Medical Imaging :) 
+
+Currently, my research focus centers on Large Language Models (LLMs) to enhance natural language inference for clinical trials on breast cancer. I am dedicated to perform impactful research to advance technology for the betterment of society. </br>
 
 <br/>
 <div align="center" >
   <a href="https://github.com/Giingu"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=Shreyasi2002&theme=radical&title_color=ff3068?"></a>
   <br/>
   <br/>
-  <a href="https://github.com/Giingu"><img width="80%" src="http://github-readme-streak-stats.herokuapp.com/?user=Shreyasi2002&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=Shreyasi2002)
-
 <!-- </div>
 
 ```
@@ -36,6 +37,3 @@
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height="40em" alt="Follow Shreyasi on Instagram" title="Follow Shreyasi on Instagram"/>](https://instagram.com/shreyasi__2002)
 
 </div>
-<h5>
-<!-- PS: If above links doesn't work, you can always find me in my Deepuu's heart <3 -->
-</h5>
