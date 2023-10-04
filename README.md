@@ -14,21 +14,17 @@ Currently, my research focus centers on Large Language Models (LLMs) to enhance 
 <br/>
 <div align="center" >
   <a href="https://github.com/Giingu"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=Shreyasi2002&theme=radical&title_color=ff3068?"></a>
-  <br/>
-  <br/>
-
-<br/>
-<!-- </div>
-
-```
-- 👀 I’m interested in Machine Learning and AI but  I am specially in love with my Deeppuuuu.
-- 🏫 I'm currently learning how to make my boyfriend happy.
-- 💞️ I’m looking to collaborate with anyone who want to share their thoughts on how much my boyfriend loves me.
-``` -->
+</div>
 
 
+<h4 align="center">Tools, technologies and languages I use</h4>
+<br./>
+<div align="center">
+<code><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,javascript,react,c,cpp,html,css,mysql,matlab,haskell,ruby,git,django,docker,flask,latex&perline=9">
+</code>
 
-<h2> You can find me on
+
+<h4> You can find me on
 
 <div align="center">
 
