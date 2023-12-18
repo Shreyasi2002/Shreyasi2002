@@ -12,11 +12,14 @@ I have worked under Prof. Elodie Lugez, at Toronto Metropolitan University (TMU)
 Currently, my research focus centers on Large Language Models (LLMs) to enhance natural language inference for clinical trials on breast cancer. I am dedicated to perform impactful research to advance technology for the betterment of society. </br>
 
 <br/>
-<div align="center" >
-  <a href="https://github.com/Giingu"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=Shreyasi2002&theme=radical&title_color=ff3068?"></a>
+<div align="center">
+  Support me by buying me a coffee?
+  <br/>
+  <br/>
+<a href="https://www.buymeacoffee.com/shreyasimandal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="65px"></a>
 </div>
 
-
+<br/>
 <h4 align="center">Tools, technologies and languages I use</h4>
 <br./>
 <div align="center">
