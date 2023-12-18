@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Shreyasi Mandal
-<br />
-
 
 ### About Me 🚀
 🌱 I am Shreyasi Mandal, a final-year student in the Computer Science and Engineering Department at IIT Kanpur. My academic journey has been driven by a strong passion for AI and ML research, where I've consistently sought innovative applications of Artificial Intelligence.
