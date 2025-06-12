@@ -3,13 +3,7 @@
 ### About Me 🚀
 🌱 I am Shreyasi, a recent graduate from IIT Kanpur in the Computer Science and Engineering Department. My academic journey has been driven by a strong passion for AI and ML research, where I've consistently sought innovative applications of Artificial Intelligence. I am dedicated to perform impactful research to advance technology for the betterment of society. </br>
 
-<br/>
-<div align="center">
-  Support me by buying me a coffee?
-  <br/>
-  <br/>
-<a href="https://www.buymeacoffee.com/shreyasimandal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="65px"></a>
-</div>
+
 
 <br/>
 <h4 align="center">Tools, technologies and languages I use</h4>
